@@ -1,0 +1,1 @@
+RESUMEN_CLIENTE_ID_{id_cliente}.txt
